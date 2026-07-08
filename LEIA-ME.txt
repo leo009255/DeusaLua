@@ -1,0 +1,25 @@
+TEMPLO DA DEUSA DA LUA — PROJETO JOGÁVEL
+
+ESTRUTURA:
+index.html
+sprites/
+  idle.png
+  walk.png
+  jump.png
+  offer.png
+
+COMO USAR:
+1. Mantenha o arquivo index.html e a pasta sprites juntos.
+2. Envie ambos para o mesmo repositório do GitHub.
+3. Não altere os nomes dos arquivos sem atualizar animationDefinitions no JavaScript.
+
+CONTROLES:
+- WASD ou setas: mover
+- Espaço: pular
+- E: oferecer quando estiver perto do altar
+- Escape: pausar
+- No celular, use os botões exibidos na tela
+
+OBSERVAÇÃO:
+Os fundos pretos dos sprites enviados foram convertidos em transparência.
+O sprite de caminhada ainda conserva as deformações existentes na geração original.
